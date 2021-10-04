@@ -2,7 +2,7 @@ package com.Taind2008110304.Tuan01;
 
 import java.util.Scanner;
 
-public class lab2Tuan2 {
+public class lab2Tuan1 {
     public static void main(String[] args) {
         double Cv, dt, dai, rong, cnn;
         Scanner biennhap = new Scanner(System.in);
