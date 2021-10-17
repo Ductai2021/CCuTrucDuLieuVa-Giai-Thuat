@@ -5,7 +5,7 @@ public class Maytinh {
         String NSX, HDH, ram, CPU;
         int SX, gia, BH;
 
-        MayTinh(String nhasx, String hdh, String r, String cpu, int namsx, int g, int nBH) {
+        MayTinh(String NSX, String HDH, String ram, String CPU, int SX, int gia, int BH) {
             NSX = NSX;
             HDH = HDH;
             ram = ram;

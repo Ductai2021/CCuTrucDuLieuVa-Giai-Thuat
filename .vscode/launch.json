@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch cowTestDrive",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan03.cowTestDrive",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1Tuan1",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan01.Lab1Tuan1",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab2Tuan1",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan01.lab2Tuan1",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab3Tuan1",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan01.lab3Tuan1",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab4Tuan1",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan01.lab4Tuan1",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1Tuan2",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan02.lab1Tuan2",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab2Tuan2",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan02.lab2Tuan2",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab3Tuan2",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan02.lab3Tuan2",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab4Tuan2",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan02.lab4Tuan2",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch CowTestDrive",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan03.CowTestDrive",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1Tuan3",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan03.lab1Tuan3",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab2Tuan3",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan03.lab2Tuan3",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab3Tuan3",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan03.lab3Tuan3",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab4Tuan3",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan03.lab4Tuan3",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1Tuan4",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan04.lab1Tuan4",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1Tuan5",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan05.lab1Tuan5",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab2Tuan5",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan05.lab2Tuan5",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab3Tuan5",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan05.lab3Tuan5",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        }
+    ]
+}
