@@ -21,6 +21,7 @@ public class cow {
         color = cl;
     }
 
-    void inThongTin{}
-    
+    void inThongTin() {
+    }
+
 }
