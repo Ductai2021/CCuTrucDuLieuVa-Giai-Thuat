@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch lab4bai3",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan04.lab4bai3",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab4bai2",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan04.lab4bai2",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab4bai1",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan04.lab4bai1",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
             "name": "Launch studentTestDrive",
             "request": "launch",
             "mainClass": "com.Taind2008110304.Tuan04.studentTestDrive",

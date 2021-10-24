@@ -22,13 +22,13 @@ public class lab2Tuan5 {
     // 1. Nhập danh sách
     public static ArrayList<String> nhap() {
         ArrayList<String> list = new ArrayList<String>();
-        Scanner scanner = new Scanner(System.in);
+        Scanner biennhap = new Scanner(System.in);
         while (true) {
             System.out.print("Nhập vào họ và tên: ");
-            String x = scanner.nextLine();
+            String x = biennhap.nextLine();
             list.add(x);
             System.out.print("Nhập thêm(Y/N)? ");
-            if (scanner.nextLine().equals("N")) {
+            if (biennhap.nextLine().equals("N")) {
                 break;
             }
 

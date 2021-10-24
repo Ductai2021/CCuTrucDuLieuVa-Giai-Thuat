@@ -10,6 +10,7 @@ public class student {
     student(String n, int a) {
         name = n;
         age = a;
+    }
 
     void inThongTin() {
         System.out.println("name: " + name + "age: " + age);
