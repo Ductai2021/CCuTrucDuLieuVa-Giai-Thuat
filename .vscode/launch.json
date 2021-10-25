@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StackDemoProgram",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan07.StackDemoProgram",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueDemoProgram",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan07.QueueDemoProgram",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch queueTestDrive",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan07.queueTestDrive",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
             "name": "Launch lab4bai3",
             "request": "launch",
             "mainClass": "com.Taind2008110304.Tuan04.lab4bai3",

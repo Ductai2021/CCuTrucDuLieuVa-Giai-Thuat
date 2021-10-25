@@ -3,7 +3,7 @@ package com.Taind2008110304.Tuan05;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class lab1Tuan5 {
+public class lab4tuan5 {
     public static void main(String[] args) {
         ArrayList<Double> arr = new ArrayList<Double>();
         arr = nhap();
