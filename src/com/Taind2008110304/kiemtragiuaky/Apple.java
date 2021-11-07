@@ -1,14 +1,15 @@
 package com.Taind2008110304.kiemtragiuaky;
 
-public class Apple {
+import java.util.Scanner;
+
+public class apple {
     int id;
     int size;
     String color;
-    
 
     Scanner n = new Scanner(System.in);
 
-    Apple(int i, int s, String cl) {
+    apple(int i, int s, String cl) {
         id = i;
         size = s;
         color = cl;
@@ -30,7 +31,4 @@ public class Apple {
         color = n.nextLine();
     }
 
-}
-
-    
 }

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AppleLinkedListTestDrive",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.kiemtragiuaky.AnswerGk1.AppleLinkedListTestDrive",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppleTestDrive",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.kiemtragiuaky.AnswerGk1.AppleTestDrive",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
             "name": "Launch AppleTestDrive",
             "request": "launch",
             "mainClass": "com.Taind2008110304.kiemtragiuaky.AppleTestDrive",
