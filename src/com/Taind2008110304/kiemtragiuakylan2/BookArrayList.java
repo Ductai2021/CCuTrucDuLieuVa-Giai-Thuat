@@ -42,7 +42,18 @@ public class BookArrayList {
         danhsachbook.add(viTri, new Book(id, sl, gia));
     }
 
-    // Tìm sách theo màu
+    // Tìm sách theo giá
+    void findTheoid(String id) {
+        System.out.println("====Thông tin giá sách muốn tìm " + id);
+        for (int i = 0; i < sL; i++) {
+            Book danhSach = (Book) danhsachbook.get(i);
+            if (danhsachbook.equals(id) == true) {
+                danhSach.inThongTin();
+            }
+        }
+        System.out.println("==============================================");
+    }
+
     // In danh sách
     void inDanhSachBook() {
         System.out.println("===========Danh sách book=============");
