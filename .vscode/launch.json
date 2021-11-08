@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sanphamTestDrive",
+            "request": "launch",
+            "mainClass": "com.Taind2008110304.Tuan06.sanphamTestDrive",
+            "projectName": "CCuTrucDuLieuVa Giai Thuat_40c2e246"
+        },
+        {
+            "type": "java",
             "name": "Launch AppleLinkedListTestDrive",
             "request": "launch",
             "mainClass": "com.Taind2008110304.kiemtragiuaky.AnswerGk1.AppleLinkedListTestDrive",
