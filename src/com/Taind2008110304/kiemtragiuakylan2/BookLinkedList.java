@@ -46,7 +46,7 @@ public class BookLinkedList {
             int id = book.nextInt();
             book.nextLine();
             System.out.print("Số lượng sách : ");
-            String sl = book.nextLine();
+            int sl = book.nextInt();
             System.out.print("Giá sách : ");
             Double gia = book.nextDouble();
 
@@ -61,7 +61,7 @@ public class BookLinkedList {
         int id = book.nextInt();
         book.nextLine();
         System.out.print("số lượng sách : ");
-        String sl = book.nextLine();
+        int sl = book.nextInt();
         System.out.print("giá sách : ");
         Double gia = book.nextDouble();
         addTail(new Book(id, sl, gia));
@@ -74,7 +74,7 @@ public class BookLinkedList {
         int id = book.nextInt();
         book.nextLine();
         System.out.print("số lượng sách : ");
-        String sl = book.nextLine();
+        int sl = book.nextInt();
         System.out.print("giá sách : ");
         Double gia = book.nextDouble();
         addTail(new Book(id, sl, gia));
@@ -119,7 +119,7 @@ public class BookLinkedList {
         int id = book.nextInt();
         book.nextLine();
         System.out.print("số lượng sách : ");
-        String sl = book.nextLine();
+        int sl = book.nextInt();
         System.out.print("giá sách : ");
         Double gia = book.nextDouble();
         addTail(new Book(id, sl, gia));

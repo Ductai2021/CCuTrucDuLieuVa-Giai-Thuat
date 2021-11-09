@@ -20,7 +20,7 @@ public class BookArrayList {
             int id = book.nextInt();
             book.nextLine();
             System.out.print("Số lượng sách : ");
-            String sl = book.nextLine();
+            int sl = book.nextInt();
             System.out.print("giá sách : ");
             Double gia = book.nextDouble();
 
@@ -36,7 +36,7 @@ public class BookArrayList {
         int id = book.nextInt();
         book.nextLine();
         System.out.print("Số lượng sách : ");
-        String sl = book.nextLine();
+        int sl = book.nextInt();
         System.out.print("Giá sách : ");
         Double gia = book.nextDouble();
         danhsachbook.add(viTri, new Book(id, sl, gia));

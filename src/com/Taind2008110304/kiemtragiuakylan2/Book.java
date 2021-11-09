@@ -2,10 +2,10 @@ package com.Taind2008110304.kiemtragiuakylan2;
 
 public class Book {
     int ma;
-    String soluong;
+    int soluong;
     double gia;
 
-    Book(int id, String sl, double gia) {
+    Book(int id, int sl, double gia) {
         ma = id;
         soluong = sl;
         gia = gia;
