@@ -43,7 +43,7 @@ public class BookArrayList {
     }
 
     // Tìm sách theo giá
-    void findTheoid(String id) {
+    void findTheoid(int id) {
         System.out.println("====Thông tin giá sách muốn tìm " + id);
         for (int i = 0; i < sL; i++) {
             Book danhSach = (Book) danhsachbook.get(i);

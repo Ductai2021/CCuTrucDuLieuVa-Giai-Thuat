@@ -22,7 +22,7 @@ public class BookTestDrive {
         danhsachbook.inDanhSachBook();
         // c)
         System.out.println("Nhập mã id sách cần tìm : ");
-        String tim = book.nextLine();
+        int tim = book.nextInt();
         danhsachbook.findTheoid(tim);
         // d)
         danhsachbook.inDanhSachBook();
